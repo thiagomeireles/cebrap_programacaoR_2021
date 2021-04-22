@@ -38,7 +38,7 @@ No entanto, ressalto a importância das atividades de terça e quinta-feira.
 ### Preparação
 Uma vez que a participação no curso não exije uma exposição prévia à linguagem R e ao ambiente de tabalho do RStudio para a inscrição, faremos um nivelamento anterior por meio de tutoriais pré-curso.
 
-Caso não tenha nenhum contato com a linguagem, é mandatória a realização de um [tutorial de preparação]() antes do início das aulas. 
+Caso não tenha nenhum contato com a linguagem, é mandatória a realização de um [roteiro de preparação]() antes do início das aulas. 
 
 Ainda que tenha conhecimento básico das estruturas da linguagem, é fortemente recomendado que tambem o façam.
 
@@ -50,10 +50,9 @@ Como a maior parte do curso é baseada em tutoriais em que vocês aprenderão "c
 
 ### Softwares
 
-Foi preparado um [Roteiro pré-curso](https://github.com/thiagomeireles/cebraplab_texto_como_dados/blob/master/roteiros/instalacao.md) onde estão as instruções para a instalação dos softwares necessários.
+Foi preparado um [Roteiro pré-curso](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/roteiros/00_instalacao.md) onde estão as instruções para a instalação dos softwares necessários.
 
 É fortemente recomendado que possuam as versões mais recentes do R e do RStudio.
-
 
 ## Objetivos
 
@@ -61,7 +60,7 @@ Os participantes, ao fim do curso, serão capazes de:
 - Abrir e manipular dados utilizando o *base* (funções básicas, a linguagem R mais "pura") e o *dplyr* (pacote com uma sintaxe um tanto diferente e mais "moderna").
 - Visualização de dados: produção de gráficos e a gramática *ggplot2*.
 - Acessar dados em SQL e fazer requisições utilizando uma "query".
-
+- Produção de mapas (sf + ggplot2).
 
 ## Roteiros e tutoriais
 
