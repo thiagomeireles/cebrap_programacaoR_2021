@@ -60,7 +60,7 @@ Os participantes, ao fim do curso, serão capazes de:
 - Abrir e manipular dados utilizando o *base* (funções básicas, a linguagem R mais "pura") e o *dplyr* (pacote com uma sintaxe um tanto diferente e mais "moderna").
 - Visualização de dados: produção de gráficos e a gramática *ggplot2*.
 - Acessar dados em SQL e fazer requisições utilizando uma "query".
-- Produção de mapas (sf + ggplot2).
+- Produção de mapas (*geobr* + *sf* + *ggplot2*).
 
 ## Roteiros e tutoriais
 
