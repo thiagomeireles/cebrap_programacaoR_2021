@@ -1,28 +1,21 @@
----
-title: "01_basico"
-output: html_document
----
+# [Cebrap.lab Afro] Curso de Programação em R: : Tutoriais Básicos
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+Antes de iniciar o curso, alguns tutoriais estão disponíveis para conhecer ou retomar o contato com a linguagem R.
 
-## R Markdown
+[Tutorial Pré-Curso I: data_frames](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/pre_curso/Tutorial_1.md)
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+[Tutorial Pré-Curso II: Entendendo o ambiente e os objetos](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/pre_curso/Tutorial_2.md)
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+[Tutorial Pré-Curso III: Abindo dados em R](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/pre-curso/Tutorial_3.md)
 
-```{r cars}
-summary(cars)
-```
+[Tutorial Pré-Curso IV: Operadores relacionais](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/pre-curso/Tutorial_4.md)
 
-## Including Plots
+Os dois primeiros tutoriais apresentam a linguagem e os objetos que podemos manipular, e são essenciais. O quarto e último é um pouco mais curto e apresenta operadores relacionais, é muito importante para manipulação e raspagem de dados.
 
-You can also embed plots, for example:
+O terceiro tutorial apresenta algumas formas de abertura de dados externos ao R, é opcional.
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+Tente realizar ao menos os dois primeiros antes do primeiro encontro e o quarto antes do segundo encontro.
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+### Dica de Leitura
+
+O livro *Hands-on Programming With R*, de Garret Grolemund, é bastante intuitivo e claro para aprendizado de T. O conteúdo apresentado aqui passa pelo  Prefácio e os Capítulos 1 a 2, que compõem a Parte I, além dos caítulos da Parte II. O link está disponível na página inicial do nosso repositório.
