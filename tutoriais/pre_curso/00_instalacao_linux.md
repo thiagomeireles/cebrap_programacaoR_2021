@@ -1,14 +1,6 @@
----
-title: "# [Cebrap.lab] Curso de Programação em R: instalação do R e RStudio no Linux"
-output: html_document
----
+# [Cebrap.lab] Curso de Programação em R: instalação do R e RStudio no Linux
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-
-# Instalação do R
+## Instalação do R
 
 Ainda que o Tutorial oferecido para o Mac ofereça a opção de instalação para o Linux, ela não permite a instalação dos pacotes utilizando o RStudio de forma simples. Assim, siga os dois passos a seguir para que funcione de forma mais simples.
 
@@ -25,7 +17,7 @@ sudo apt-get install r-base r-base-dev
 sudo apt-get upgrade
 ```
 
-# Instalação do RStudio
+## Instalação do RStudio
 
 Nesse caso, podem seguir o [Tutorial do Datacamp](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu).
 
