@@ -14,13 +14,13 @@ Divirtam-se! =)
 
 [Tutorial Pré-Curso 0: vídeo sobre o RStudio]()
 
-[Tutorial Pré-Curso I: data_frames](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/pre_curso/Tutorial_1.md) ou na [versão Rmd](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/pre_curso/Tutorial_1.Rmd)
+[Tutorial Pré-Curso I: data_frames](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/pre_curso/Tutorial_01.md) ou na [versão Rmd](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/pre_curso/Tutorial_01.Rmd)
 
-[Tutorial Pré-Curso II: Entendendo o ambiente e os objetos](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/pre_curso/Tutorial_2.md) ou na [versão Rmd]((https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/pre_curso/Tutorial_2.Rmd)
+[Tutorial Pré-Curso II: Entendendo o ambiente e os objetos](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/pre_curso/Tutorial_02.md) ou na [versão Rmd]((https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/pre_curso/Tutorial_02.Rmd)
 
-[Tutorial Pré-Curso III: Abindo dados em R](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/pre-curso/Tutorial_3.md) ou na [versão Rmd]((https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/pre_curso/Tutorial_3.Rmd)
+[Tutorial Pré-Curso III: Abindo dados em R](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/pre-curso/Tutorial_03.md) ou na [versão Rmd]((https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/pre_curso/Tutorial_03.Rmd)
 
-[Tutorial Pré-Curso IV: Operadores relacionais](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/pre-curso/Tutorial_4.md) ou na [versão Rmd]((https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/pre_curso/Tutorial_4.Rmd)
+[Tutorial Pré-Curso IV: Operadores relacionais](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/pre-curso/Tutorial_04.md) ou na [versão Rmd]((https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/pre_curso/Tutorial_04.Rmd)
 
 Os dois primeiros tutoriais apresentam a linguagem e os objetos que podemos manipular, e são essenciais. O quarto e último é um pouco mais curto e apresenta operadores relacionais, é muito importante para manipulação e raspagem de dados.
 
