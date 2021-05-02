@@ -4,7 +4,7 @@
 ## Objetivos
 Bem-vindxs à primeira edição do Curso de Programação em R do cebrap.lab de 2021. Neste roteiro aprenderemos um pouco sobre a dinâmica do R. Observando as transformações no RStudio, serão apreentadas as principais classes de objetos, como *vetores* e *dataframes*. Além disso, também veremos como funciona a abertura de dados e a utilização de 
 
-Caso não tenha realizado a instação do R e do RStudio, leia e siga o [roteiro de instalação](https://github.com/thiagomeireles/cebrap_afro_2021/blob/main/roteiros/00_instalacao.md). 
+Caso não tenha realizado a instação do R e do RStudio, leia e siga o [roteiro de instalação](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/roteiros/00_instalacao.md). 
 
 ## Tutoriais de nivelamento
 
