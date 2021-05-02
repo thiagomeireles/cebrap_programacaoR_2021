@@ -38,7 +38,7 @@ No entanto, ressalto a importância das atividades de terça e quinta-feira.
 ### Preparação
 Uma vez que a participação no curso não exije uma exposição prévia à linguagem R e ao ambiente de tabalho do RStudio para a inscrição, faremos um nivelamento anterior por meio de tutoriais pré-curso.
 
-Caso não tenha nenhum contato com a linguagem, é mandatória a realização de um [roteiro de preparação](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/roteiros/01_basico.md) antes do início das aulas. 
+Caso não tenha nenhum contato com a linguagem, é mandatória a realização de um [roteiro de preparação](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/roteiros/01_basico.html) antes do início das aulas. 
 
 Ainda que tenha conhecimento básico das estruturas da linguagem, é fortemente recomendado que tambem o façam.
 
@@ -50,7 +50,7 @@ Como a maior parte do curso é baseada em tutoriais em que vocês aprenderão "c
 
 ### Softwares
 
-Foi preparado um [Roteiro pré-curso](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/roteiros/00_instalacao.md) onde estão as instruções para a instalação dos softwares necessários.
+Foi preparado um [Roteiro pré-curso](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/roteiros/00_instalacao.html) onde estão as instruções para a instalação dos softwares necessários.
 
 É fortemente recomendado que possuam as versões mais recentes do R e do RStudio.
 
@@ -86,10 +86,10 @@ Os links para os tutoriais estarão abaixo antes de cada aula.
 
 ## Referências
 
-- Grolemund, Garrett (2014). Hands-On Programming with R. Ed: O'Reilly Media. Não distribuído gratuitamente. Informações no site da editora [aqui](http://shop.oreilly.com/product/0636920028574.do)
-- Wichkam, Hadley e Grolemund, Garrett (2016). R for Data Science. Ed: O'Reilly Media. Disponível gratuitamente Disponível gratuitamente [aqui](http://r4ds.had.co.nz/data-visualisation.html)
-- Wichkam, Hadley (2014). Advanced R. Ed: Chapman and Hall/CRC. Disponível gratuitamente Disponível gratuitamente [aqui](http://adv-r.had.co.nz/)
-- Gillespie, Colin e Lovelace, Robin (2016). Efficient R programming. Ed: O'Reilly Media. Disponível gratuitamente Disponível gratuitamente [aqui](https://csgillespie.github.io/efficientR/)
+- Grolemund, Garrett (2014). Hands-On Programming with R. Ed: O'Reilly Media. Disponível gratuitamente [aqui](https://rstudio-education.github.io/hopr/)
+- Wichkam, Hadley e Grolemund, Garrett (2016). R for Data Science. Ed: O'Reilly Media. Disponível gratuitamente [aqui](http://r4ds.had.co.nz/data-visualisation.html)
+- Wichkam, Hadley (2014). Advanced R. Ed: Chapman and Hall/CRC. Disponível gratuitamente [aqui](http://adv-r.had.co.nz/)
+- Gillespie, Colin e Lovelace, Robin (2016). Efficient R programming. Ed: O'Reilly Media. Disponível gratuitamente [aqui](https://csgillespie.github.io/efficientR/)
 
 
 
