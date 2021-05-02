@@ -12,7 +12,7 @@ Para podermos explorar mais ferramentas da linguagem R ao longo do curso, é mui
 
 Divirtam-se! =)
 
-[Tutorial Pré-Curso 0: vídeo sobre o RStudio]()
+[Tutorial Pré-Curso 0: vídeo sobre o RStudio](https://drive.google.com/file/d/1i_-SrgtYQ_Ig_m80DfzEQw78RHQtkLeY/view?pli=1)
 
 [Tutorial Pré-Curso I: data_frames](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/pre_curso/Tutorial_01.md) ou na [versão Rmd](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/pre_curso/Tutorial_01.Rmd)
 
