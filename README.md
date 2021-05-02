@@ -5,7 +5,7 @@
 ### Instrutor: 
 	
 [Thiago Meireles](https://thiagomeireles.github.io/)
-
+ 
 ### Data, Hora e Local
 
 De 10 a 14 de maio, das 18h30 às 21h30.
