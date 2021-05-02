@@ -13,7 +13,7 @@ No início da primeira aula faremos um tour rápido para entender o que esse IDE
 
 ## Instalação e atualização dos softwares
 
-###Windows 10
+### Windows 10
 
 - Para instalar a versão mais recente de R, caso não possua uma instalação, clique [aqui](https://cran.r-project.org/).
 - Para instalar a versão mais recente de R, caso já o possua instalado, execute o código abaixo e siga as instruções:
