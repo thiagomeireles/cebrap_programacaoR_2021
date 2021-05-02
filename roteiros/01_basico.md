@@ -28,6 +28,6 @@ O terceiro tutorial apresenta algumas formas de abertura de dados externos ao R,
 
 Tente realizar ao menos os dois primeiros antes do primeiro encontro e o quarto antes do segundo encontro.
 
-## Dica de Leitura
+## Dica de Leitura 
 
 O livro [Hands-on Programming With R](https://rstudio-education.github.io/hopr/), de Garret Grolemund, é bastante intuitivo e claro para aprendizado de T. O conteúdo apresentado aqui passa pelo  Prefácio e os Capítulos 1 a 2, que compõem a Parte I, além dos caítulos da Parte II. 
