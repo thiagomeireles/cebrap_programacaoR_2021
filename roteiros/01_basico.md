@@ -1,4 +1,4 @@
-#[Cebrap.lab Afro] Curso de Programação em R: : Tutoriais Básicos
+# [Cebrap.lab Afro] Curso de Programação em R: : Tutoriais Básicos
 
 
 ## Objetivos
