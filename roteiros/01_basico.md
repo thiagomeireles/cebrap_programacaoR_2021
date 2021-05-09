@@ -1,4 +1,4 @@
-# [Cebrap.lab] Curso de Programação em R: : Tutoriais Básicos
+# [Cebrap.lab] Curso de Programação em R: Tutoriais Básicos
 
 
 ## Objetivos
