@@ -34,7 +34,7 @@ A lista de presença está disponível [aqui](https://docs.google.com/spreadshee
 
 ## Slides
 
-Os slides utilizados na aula podem ser baixados por [este link]().
+Os slides utilizados na aula podem ser baixados por [este link](https://drive.google.com/file/d/1nNt3KML696E6HLN_z41ujkETdHwwe7pL/view?usp=sharing).
 
 ## Dica de Leitura
 
