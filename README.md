@@ -68,21 +68,25 @@ Os participantes, ao fim do curso, serão capazes de:
 
 Todas os dias de curso terão roteiros a cumprir. Pouco antes de cada encontro, as linhas abaixo serão preenchidas com links com as descrições do que esperamos em cada dia de curso e como o faremos.
 
-[11/05/2021]() - 
+[11/05/2021](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/roteiros/dia_01.md) - Manipulação de dados
 
-[12/05/2021]() - 
+[12/05/2021]() - Acessando bases de dados públicas utilizando o [Base dos Dados](https://basedosdados.org/)
 
-[13/05/2021]() - 
+[13/05/2021]() - Visualização de dados com o *ggplot2*
 
-[14/05/2021]() - 
+[14/05/2021]() - Utilização do R na prática: Experiência na [Rede de Pesquisa Solidária](https://redepesquisasolidaria.org/)
 
-[15/05/2021]() - 
+[15/05/2021]() - Mapas com *sf* e *ggplot2*
 
 ### Tutoriais
 
 Os links para os tutoriais estarão abaixo antes de cada aula.
 
-[Tutorial 1](): 
+[Tutorial 1](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/Tutorial_01.md): Manipulação de dados com a gramática básica do R. Aqui a [Versão Rmd](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/Tutorial_01.Rmd)
+
+[Tutorial 2](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/Tutorial_02.md): Manipulação de dados em R com *dplyr. Aqui a [Versão Rmd](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/Tutorial_02.Rmd)
+
+[Tutorial 3](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/Tutorial_03.md): Bases de dados relacionais com a gramática do pacote dplyr. Aqui a [Versão Rmd](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/Tutorial_03.Rmd)
 
 ## Referências
 
@@ -90,6 +94,3 @@ Os links para os tutoriais estarão abaixo antes de cada aula.
 - Wichkam, Hadley e Grolemund, Garrett (2016). R for Data Science. Ed: O'Reilly Media. Disponível gratuitamente [aqui](http://r4ds.had.co.nz/data-visualisation.html)
 - Wichkam, Hadley (2014). Advanced R. Ed: Chapman and Hall/CRC. Disponível gratuitamente [aqui](http://adv-r.had.co.nz/)
 - Gillespie, Colin e Lovelace, Robin (2016). Efficient R programming. Ed: O'Reilly Media. Disponível gratuitamente [aqui](https://csgillespie.github.io/efficientR/)
-
-
-
