@@ -75,7 +75,7 @@ Em seguida, criamos nossa conexão com o BigQuery especificando o project_id no 
 ```{r}
 con <- dbConnect(
   bigrquery::bigquery(),
-  billing = "testecebrap", #aqui entra o projectID mais 
+  billing = "", #aqui entra o projectID mais 
   project = "basedosdados"
 )
 ```
