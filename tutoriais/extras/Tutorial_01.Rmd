@@ -66,7 +66,8 @@ Em um primeiro momento, realizamos a atuenticação indicando onde está o arqui
 ```{r}
 bq_auth(path = "Caminho no seu computador/arquivojson.json")
 
-bq_auth(path = "C:/Users/meire/Downloads/testecebrap-f01cc3184f09.json")
+## Exemplo do caminho no meu computador
+#bq_auth(path = "C:/Users/meire/Downloads/testecebrap-f01cc3184f09.json")
 ```
 
 Em seguida, criamos nossa conexão com o BigQuery especificando o project_id no arqumento "billing".
