@@ -70,7 +70,7 @@ Todas os dias de curso terão roteiros a cumprir. Pouco antes de cada encontro, 
 
 [11/05/2021](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/roteiros/dia_01.md) - Manipulação de dados
 
-[12/05/2021]() - Acessando bases de dados públicas utilizando o [Base dos Dados](https://basedosdados.org/)
+[12/05/2021](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/roteiros/dia_02.md) - Acessando bases de dados públicas utilizando o [Base dos Dados](https://basedosdados.org/)
 
 [13/05/2021]() - Visualização de dados com o *ggplot2*
 
