@@ -1,5 +1,7 @@
 ---
 title: "Tutorial Extra 1: Acessando o Base dos Dados com SQL e queries"
+author: "Thiago Meireles, baseado no tutorial base do BD"
+date: "`r format(Sys.time(), '%d/%m/%y')`"
 output: html_document
 ---
 
@@ -63,6 +65,8 @@ Em um primeiro momento, realizamos a atuenticação indicando onde está o arqui
 
 ```{r}
 bq_auth(path = "Caminho no seu computador/arquivojson.json")
+
+bq_auth(path = "C:/Users/meire/Downloads/testecebrap-f01cc3184f09.json")
 ```
 
 Em seguida, criamos nossa conexão com o BigQuery especificando o project_id no arqumento "billing".
@@ -70,7 +74,7 @@ Em seguida, criamos nossa conexão com o BigQuery especificando o project_id no 
 ```{r}
 con <- dbConnect(
   bigrquery::bigquery(),
-  billing = "", #aqui entra o projectID mais 
+  billing = "testecebrap", #aqui entra o projectID mais 
   project = "basedosdados"
 )
 ```
@@ -80,19 +84,17 @@ con <- dbConnect(
 ### A nível de município
 
 ```{r}
-query = "SELECT * FROM `basedosdados.br_ms_sim.municipio`"
+query  <- "SELECT * FROM `basedosdados.br_ms_sim.municipio`"
 
-df.sim = dbGetQuery(con, query)
+df.sim <- dbGetQuery(con, query)
 ```
 
-### Microdados para o ano de 2010 no Acre
+### Microdados para as 100 primeiras observações para 2010
 
 ```{r}
-query = "SELECT *
-         FROM `basedosdados.br_ms_sim.microdados`
-         WHERE ano = 2010 AND estado_abrev = 'AC'"
+query <- "SELECT * FROM `basedosdados.br_ms_sim.microdados` LIMIT 100"
 
-df.sim.microdados = dbGetQuery(con, query)
+df.sim.microdados <- dbGetQuery(con, query)
 ```
 
 ## Exemplo 2: Cruzando Dados
@@ -100,7 +102,7 @@ df.sim.microdados = dbGetQuery(con, query)
 ### Obtendo dados do PIB per capita
 
 ```{r}
-query.pib_pc = "SELECT 
+query.pib_pc <- "SELECT 
     pib.id_municipio ,
     pop.ano, 
     pib.PIB / pop.populacao as pib_pc
@@ -118,3 +120,17 @@ query = "SELECT * FROM `basedosdados.br_inpe_prodes.desmatamento_municipios`"
 
 df.prodes = dbGetQuery(con, query)
 ```
+
+### Cruzando os dados com o base
+
+```{r}
+df.analise = merge(df.pib_pc, df.prodes, on=c("id_municipio","ano"))
+
+# Convertendo o PIB per capita para log
+df.analise$ln_pib_pc = log(df.analise$pib_pc)
+```
+
+
+
+## Brincando com requisições por SQL
+
