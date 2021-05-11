@@ -2,7 +2,7 @@
 
 ## Objetivos gerais
 
-Hoje acessarão um vídeo do [Base dos Dados](basedosdados.org) para aprenderem a fazer as requisições por *BigQuery* utilizando o R. 
+Hoje acessarão um vídeo do [Base dos Dados](https://basedosdados.org/) para aprenderem a fazer as requisições por *BigQuery* utilizando o R. 
 
 Além disso, utilize o tempo restante para seguir com os tutoriais da aula de ontem.
 
@@ -16,4 +16,4 @@ Além disso, utilize o tempo restante para seguir com os tutoriais da aula de on
 
 ## Link extra
 
-Você pode acessar uma lista de recomendações e exemplos de *queries* para SQL neste [link](https://www.devmedia.com.br/escrevendo-queries-otimizadas-no-sql-server/20403). Quando tiver tempo, acesse o [Base dos Dados](basedosdados.org) e "brinque" com as bases que te interessam.
+Você pode acessar uma lista de recomendações e exemplos de *queries* para SQL neste [link](https://www.devmedia.com.br/escrevendo-queries-otimizadas-no-sql-server/20403). Quando tiver tempo, acesse o [Base dos Dados](https://basedosdados.org/) e "brinque" com as bases que te interessam.
