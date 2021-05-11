@@ -1,15 +1,4 @@
----
-title: "Tutorial Extra 1: Acessando o Base dos Dados com SQL e queries"
-author: "Thiago Meireles, baseado no tutorial base do BD"
-date: "`r format(Sys.time(), '%d/%m/%y')`"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-# Base dos Dados no R
+# Tutorial Extra 1: Acessando o Base dos Dados com SQL e queries
 
 Assista o vídeo disponível no [YouTube](https://www.youtube.com/watch?v=5_Ir8neyFf4&ab_channel=BasedosDados) para ver os passos para acessar os dados via requisição de BigQuery.
 
