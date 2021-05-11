@@ -82,7 +82,7 @@ df.sim <- dbGetQuery(con, query)
 ### Microdados para as 100 primeiras observações para 2010
 
 ```{r}
-query <- "SELECT * FROM `basedosdados.br_ms_sim.microdados` LIMIT 100"
+query <- "SELECT * FROM `basedosdados.br_ms_sim.microdados` WHERE ano = 2010 LIMIT 100"
 
 df.sim.microdados <- dbGetQuery(con, query)
 ```
