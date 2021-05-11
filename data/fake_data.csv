@@ -1,31 +1,31 @@
 age;sex;educ;income;savings;marriage;kids;party;turnout;vote_history;economy;incumbent;candidate
-37;Female;College Incomplete;25952523480801000;1484220354974870;Yes;0;Independent;No;4;About average;Good;Other
-26;Female;No High School Degree;21667404822977700;2490390678573850;Yes;0;Independent;Yes;0;Bad;Don't Know;Trampi
-35;Male;No High School Degree;82138103326978400;594411839177828;Yes;1;Socialist Party;No;0;Bad;About average;Trampi
-43;Male;High School Degree;46199732636056296;1457617533637220;No;0;Independent;Yes;4;Bad;Bad;Other
-36;Female;College Degree or more;40720673658838200;2539873204774960;No;1;Socialist Party;No;2;Good;Very Bad;Baidem
-38;Male;College Incomplete;64630189159605296;1436365429352750;No;0;Independent;No;1;Bad;About average;None
-29;Female;High School Degree;22190140578331896;511818086664898;No;1;Independent;No;4;Bad;Very Bad;Trampi
-33;Male;College Degree or more;28260615229913000;1492228500749280;Yes;0;Independent;No;0;Very Bad;Good;Baidem
-42;Female;College Incomplete;4480593849570200;1414785195758790;No;0;Independent;No;0;Very Bad;Bad;Baidem
-41;Male;High School Degree;65401966372012704;541937933770997;No;0;Independent;Yes;4;Good;Very good;Baidem
-25;Female;College Incomplete;14073843132566600;1475575053900120;Yes;0;Independent;Yes;4;About average;Very good;Trampi
-35;Female;High School Degree;436993309136977;420302145514139;Yes;0;Conservative Party;Yes;4;About average;Very Bad;Baidem
-35;Female;High School Degree;2669289868867180;516218838990776;No;0;Independent;No;4;Good;Very good;Baidem
-28;Female;College Incomplete;66962893996844896;4535141146494990;Yes;0;Socialist Party;Yes;0;Bad;About average;Baidem
-32;Female;High School Degree;5242448867058340;463968673212739;No;0;Socialist Party;Yes;0;About average;About average;Baidem
-40;Male;College Incomplete;26864805769548000;3498155973692750;No;0;Socialist Party;Yes;4;Bad;Good;Baidem
-37;Male;College Degree or more;41804665497024800;1508315005381790;Yes;0;Socialist Party;No;0;About average;Very Bad;Trampi
-34;Male;College Degree or more;45372009718116400;3537427252793030;Yes;0;Conservative Party;No;2;About average;Very Bad;Trampi
-33;Male;College Degree or more;22023450831511100;486724747365113;Yes;3 or more;Independent;Yes;4;Good;Very Bad;Other
-29;Female;High School Degree;6527071454376349;471812938137429;No;2;Conservative Party;No;3;Good;About average;Baidem
-43;Male;No High School Degree;23004241291474400;1480109104065540;Yes;0;Socialist Party;Yes;4;Very Bad;About average;Trampi
-35;Male;College Degree or more;29296419198181000;1501151137324330;Yes;0;Socialist Party;Yes;1;Bad;Very good;Baidem
-30;Female;College Degree or more;64044508865476896;489684094510783;No;3 or more;Socialist Party;No;0;Don't Know;Don't Know;Trampi
-29;Male;High School Degree;30179494538903900;510364043969693;Yes;0;Independent;Yes;4;Bad;Very Bad;Other
-32;Female;High School Degree;8747608128402410;488478528008529;Yes;0;Conservative Party;Yes;3;Very Bad;Bad;Trampi
-38;Male;High School Degree;28797574405964400;478509409667148;No;0;Conservative Party;Yes;4;Very good;About average;Baidem
-35;Female;High School Degree;40351402937501800;2497019246516040;Yes;1;Independent;No;4;Good;About average;Trampi
-37;Male;High School Degree;5085993369981590;493576173496978;Yes;2;Independent;Yes;2;Very Bad;Very Bad;Trampi
-32;Female;High School Degree;21085366687808200;487218876171028;No;0;Independent;Yes;0;Bad;Bad;Baidem
-23;Male;High School Degree;27241536514346896;1511641837548340;No;0;Conservative Party;Yes;0;About average;Good;Trampi
+37;Female;College Incomplete;2595,2523480801001;1484220354974870;Yes;0;Independent;No;4;About average;Good;Other
+26;Female;No High School Degree;2166,7404822977701;2490390678573850;Yes;0;Independent;Yes;0;Bad;Don't Know;Trampi
+35;Male;No High School Degree;8213,8103326978398;594411839177828;Yes;1;Socialist Party;No;0;Bad;About average;Trampi
+43;Male;High School Degree;4619,9732636056297;1457617533637220;No;0;Independent;Yes;4;Bad;Bad;Other
+36;Female;College Degree or more;4072,0673658838200;2539873204774960;No;1;Socialist Party;No;2;Good;Very Bad;Baidem
+38;Male;College Incomplete;6463,0189159605297;1436365429352750;No;0;Independent;No;1;Bad;About average;None
+29;Female;High School Degree;2219,0140578331898;511818086664898;No;1;Independent;No;4;Bad;Very Bad;Trampi
+33;Male;College Degree or more;2826,0615229913001;1492228500749280;Yes;0;Independent;No;0;Very Bad;Good;Baidem
+42;Female;College Incomplete;448,0593849570200;1414785195758790;No;0;Independent;No;0;Very Bad;Bad;Baidem
+41;Male;High School Degree;6540,1966372012703;541937933770997;No;0;Independent;Yes;4;Good;Very good;Baidem
+25;Female;College Incomplete;1407,3843132566601;1475575053900120;Yes;0;Independent;Yes;4;About average;Very good;Trampi
+35;Female;High School Degree;43,6993309136977;420302145514139;Yes;0;Conservative Party;Yes;4;About average;Very Bad;Baidem
+35;Female;High School Degree;266,9289868867180;516218838990776;No;0;Independent;No;4;Good;Very good;Baidem
+28;Female;College Incomplete;6696,2893996844896;4535141146494990;Yes;0;Socialist Party;Yes;0;Bad;About average;Baidem
+32;Female;High School Degree;524,2448867058340;463968673212739;No;0;Socialist Party;Yes;0;About average;About average;Baidem
+40;Male;College Incomplete;2686,4805769548002;3498155973692750;No;0;Socialist Party;Yes;4;Bad;Good;Baidem
+37;Male;College Degree or more;4180,4665497024798;1508315005381790;Yes;0;Socialist Party;No;0;About average;Very Bad;Trampi
+34;Male;College Degree or more;4537,2009718116396;3537427252793030;Yes;0;Conservative Party;No;2;About average;Very Bad;Trampi
+33;Male;College Degree or more;2202,3450831511100;486724747365113;Yes;3 or more;Independent;Yes;4;Good;Very Bad;Other
+29;Female;High School Degree;652,7071454376349;471812938137429;No;2;Conservative Party;No;3;Good;About average;Baidem
+43;Male;No High School Degree;2300,4241291474400;1480109104065540;Yes;0;Socialist Party;Yes;4;Very Bad;About average;Trampi
+35;Male;College Degree or more;2929,6419198181002;1501151137324330;Yes;0;Socialist Party;Yes;1;Bad;Very good;Baidem
+30;Female;College Degree or more;6404,4508865476892;489684094510783;No;3 or more;Socialist Party;No;0;Don't Know;Don't Know;Trampi
+29;Male;High School Degree;3017,9494538903900;510364043969693;Yes;0;Independent;Yes;4;Bad;Very Bad;Other
+32;Female;High School Degree;874,7608128402410;488478528008529;Yes;0;Conservative Party;Yes;3;Very Bad;Bad;Trampi
+38;Male;High School Degree;2879,7574405964401;478509409667148;No;0;Conservative Party;Yes;4;Very good;About average;Baidem
+35;Female;High School Degree;4035,1402937501798;2497019246516040;Yes;1;Independent;No;4;Good;About average;Trampi
+37;Male;High School Degree;508,5993369981590;493576173496978;Yes;2;Independent;Yes;2;Very Bad;Very Bad;Trampi
+32;Female;High School Degree;2108,5366687808200;487218876171028;No;0;Independent;Yes;0;Bad;Bad;Baidem
+23;Male;High School Degree;2724,1536514346894;1511641837548340;No;0;Conservative Party;Yes;0;About average;Good;Trampi
