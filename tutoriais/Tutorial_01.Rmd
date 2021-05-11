@@ -232,6 +232,14 @@ Selecionamos (1) pessoas quasadas que (2) possuam até 30 anos e (3) não tenham
 
 Produza um novo *data\_frame* com apenas 4 variáveis -- "age", "income", "economy" e "candidate" -- e que contenha apenas eleitores homens, ricos ("income" maior que FM\$ 3 mil, que é dinheiro pra caramba em Fakeland) e inclinados a votar no candidato "Trampi".
 
+```{r}
+fake2 <- fake[fake$sex=="Homem" &
+                fake$income > 3000 &
+                fake$candidate=="Trampi",
+               c("age", "income", "economy", "candidate")]
+```
+
+
 Quais as dimensões do novo *data\_frame*? Qual é a idade média dos eleitores no novo *data\_frame*? Qual é a soma da renda no novo *data\_frame*?
 
 ## Função subset
@@ -244,7 +252,6 @@ fake_independents <- subset(fake, party == "Independent")
 
 Obtemos o mesmo resultado e você pode achar que é uma forma mais elegante de código. Veremos, ainda hoje, outra forma ainda mais simples utilizando o pacote *dplyr*.
 
-## Criando uma nova coluna
 
 A criação de colunas em *data\_frames* é algo trivial. Como exemplo, podemos criar uma coluna "vazia" somente com "missing values", respresentados no R por "NA"
 
@@ -316,8 +323,6 @@ table(fake$sex)
 Mais elegante, não?
 
 ## Recodificando uma variável
-
-Além de subtituir valores, podemos recodificar variáveis. Como exemplo, imaginemos que não interessa trabalhar a renda ("income") como variável contínua. Mas, a partir dela, podemos construir uma variável indicando quem é rico ("rich"). Vamos estabelecer que um indivíduo é "rich" se a renda for superior a FM\$ 3 mil e "not rich" caso seja até 3 mil. Operaremos da seguinte forma: (1) criaremos uma variável com "missing values"; (2) substituiremos o valor para os indivíduos ricos; (3) substituiremos os valores para os não-ricos. Perceba que a seleção da variável "rich" para a substituição se dá a partir da variável "income":
 
 ```{r}
 fake$rich <- NA
@@ -421,7 +426,7 @@ fake_duplicado[order(fake_duplicado$income), ]
 E agora removemos as observações duplicadas com a função *duplicated*:
 
 ```{r}
-fake_novo <- fake_duplicado[!duplicated(fake_duplicado),]
+fake_novo <- fake_duplicado[!duplicated(fake_duplicado),] 
 ```
 
 Note que precisamos da exclamação (operador lógico "não") para ficar com todas as linhas **não** duplicadas.
