@@ -72,7 +72,7 @@ Todas os dias de curso terão roteiros a cumprir. Pouco antes de cada encontro, 
 
 [12/05/2021](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/roteiros/dia_02.md) - Acessando bases de dados públicas utilizando o [Base dos Dados](https://basedosdados.org/)
 
-[13/05/2021]() - Visualização de dados com o *ggplot2*
+[13/05/2021](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/roteiros/dia_03.md) - Visualização de dados com o *ggplot2*
 
 [14/05/2021]() - Utilização do R na prática: Experiência na [Rede de Pesquisa Solidária](https://redepesquisasolidaria.org/)
 
@@ -87,6 +87,8 @@ Os links para os tutoriais estarão abaixo antes de cada aula.
 [Tutorial 2](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/Tutorial_02.md): Manipulação de dados em R com *dplyr. Aqui a [Versão Rmd](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/Tutorial_02.Rmd)
 
 [Tutorial 3](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/Tutorial_03.md): Bases de dados relacionais com a gramática do pacote dplyr. Aqui a [Versão Rmd](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/Tutorial_03.Rmd)
+
+[Tutorial 4](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/Tutorial_04.md): Visualização de dados com *ggplot2*. Aqui a [Versão Rmd](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/Tutorial_04.Rmd)
 
 ## Referências
 
