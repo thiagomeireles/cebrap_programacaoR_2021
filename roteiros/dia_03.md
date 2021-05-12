@@ -16,7 +16,7 @@ Hoje trabalharemos com a biblioteca gráfica *ggplot2*. Ela possui integração 
 
 ## Link para aula
 
-É possível acessar o encontro pelo Zoom por [este link](https://zoom.us/j/92074729094?pwd=SGszVy9nZS9tTzdCeExnRmJkWEtEQT09).
+É possível acessar o encontro pelo Zoom por [este link](https://zoom.us/j/94927845828?pwd=Q1NlZXJHYmFuemZKZnVCS2xPd3kvZz09).
 
 A lista de presença está disponível [aqui](https://docs.google.com/spreadsheets/d/19Qgt-jHp9gp7MZ6HB1rktd1HcZFHA_oLOT4R2bMkHzU/edit?usp=sharing).
 
