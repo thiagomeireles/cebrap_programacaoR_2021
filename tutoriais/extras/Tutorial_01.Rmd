@@ -111,24 +111,24 @@ FROM `basedosdados.br_ibge_pib.municipios` as pib
 INNER JOIN `basedosdados.br_ibge_populacao.municipios` as pop
 ON pib.id_municipio = pop.id_municipio AND pib.ano = pop.ano"
 
-df.pib_pc = dbGetQuery(con, query.pib_pc)
+df.pib_pc <- dbGetQuery(con, query.pib_pc)
 ```
 
 ### Obtendo dados de Desmatamento do Prodes do INPE
 
 ```{r}
-query = "SELECT * FROM `basedosdados.br_inpe_prodes.desmatamento_municipios`"
+query <- "SELECT * FROM `basedosdados.br_inpe_prodes.desmatamento_municipios`"
 
-df.prodes = dbGetQuery(con, query)
+df.prodes <- dbGetQuery(con, query)
 ```
 
 ### Cruzando os dados com o base
 
 ```{r}
-df.analise = merge(df.pib_pc, df.prodes, on=c("id_municipio","ano"))
+df.analise <- merge(df.pib_pc, df.prodes, on=c("id_municipio","ano"))
 
 # Convertendo o PIB per capita para log
-df.analise$ln_pib_pc = log(df.analise$pib_pc)
+df.analise$ln_pib_pc <- log(df.analise$pib_pc)
 ```
 
 
