@@ -25,7 +25,7 @@ Em sequência, carregaremos os dados que estão no repositório do curso:
 
 ```{r}
 url_fake_data <- "https://raw.githubusercontent.com/thiagomeireles/cebrap_programacaoR_2021/main/data/fake_data_2.csv"
-fake <- read_delim(url_fake_data, delim = ';', col_names = T)
+fake <- read_csv2(url_fake_data)
 ```
 
 ## ggplot2: uma Gramática de Dados
@@ -101,8 +101,7 @@ Dentro de cada geometria, com sua utilidade própria, existem outros parâmetros
 ```{r}
 fake %>% 
   ggplot() + 
-  geom_histogram(aes(x = renda), 
-                 binwidth = 4500)
+  geom_histogram(aes(x = renda))
 ```
 
 Perceba um ponto importante: o parâmetro *binwidth* (a largura da barra) é especificado **FORA** do *aes*. Mas por que isso? Existe uma regra muito importante na gramática do *ggplot2*: parâmetros que **DEPENDEM** dos nossos dados devem ficar dentro do *aes*, enquanto parâmetros fixos, aqueles que **NÃO DEPENDEM** dos nossos dados, devem ficar de fora do *aes*. Assim, no nosso código temos uma variável dentro do *aes*, a renda, e um número que independe dos dados fora do *aes*, 4500.
