@@ -18,9 +18,7 @@ Por fim, o vídeo do Base dos Dados sobre o projeto e o recém-lançado pacote p
 
 2. Opcional, pois ficou longo: [vídeo passando pelos scripts utilizados](https://youtu.be/LFYG9iqc1Xk) na Rede de Pesquisa Solidária.
 
-3. Navegue pelo repositório de [exemplos da pesquisa da Rede](https://github.com/thiagomeireles/rede_pesquisa_exemplos) em seu tempo.
-
-PS: a velocidade da internet no interior travou o upload, mas tá a caminho há um bom tempo. Estou subindo uma versão "na mão" [aqui](https://github.com/thiagomeireles/pesquisa_exemplo) para não ficarem sem acesso caso demore.
+3. Navegue pelo repositório de [exemplos da pesquisa da Rede](https://github.com/thiagomeireles/rede_pesquisa_exemplos) em seu tempo. É importante clonar o repositório para que os scripts funcionem bem.
 
 4. Vídeo sobre o Base dos Dados e o [pacote basedosdados para R](https://youtu.be/NT5Ry0yjYIE)
 
