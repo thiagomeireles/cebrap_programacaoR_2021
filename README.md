@@ -74,7 +74,7 @@ Todas os dias de curso terão roteiros a cumprir. Pouco antes de cada encontro, 
 
 [13/05/2021](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/roteiros/dia_03.md) - Visualização de dados com o *ggplot2*
 
-[14/05/2021]() - Utilização do R na prática: Experiência na [Rede de Pesquisa Solidária](https://redepesquisasolidaria.org/)
+[14/05/2021](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/roteiros/dia_04.md) - Utilização do R na prática: Experiência na [Rede de Pesquisa Solidária](https://redepesquisasolidaria.org/)
 
 [15/05/2021]() - Mapas com *sf* e *ggplot2*
 
