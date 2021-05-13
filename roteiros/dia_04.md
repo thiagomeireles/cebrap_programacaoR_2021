@@ -20,7 +20,7 @@ Por fim, o vídeo do Base dos Dados sobre o projeto e o recém-lançado pacote p
 
 3. Navegue pelo repositório de [exemplos da pesquisa da Rede](https://github.com/thiagomeireles/rede_pesquisa_exemplos) em seu tempo.
 
-PS: a velocidade da internet no interior travou o upload, mas tá a caminho há um bom tempo
+PS: a velocidade da internet no interior travou o upload, mas tá a caminho há um bom tempo. Estou subindo uma versão "na mão" [aqui](https://github.com/thiagomeireles/pesquisa_exemplo) para não ficarem sem acesso caso demore.
 
 4. Vídeo sobre o Base dos Dados e o [pacote basedosdados para R](https://youtu.be/NT5Ry0yjYIE)
 
