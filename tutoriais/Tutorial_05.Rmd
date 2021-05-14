@@ -71,6 +71,8 @@ st_crs(municipios)
 
 municipios <- municipios %>% 
   st_transform(4326)
+
+rm(municipios)
 ```
 
 Esse exemplo é interessante, especialmente para trabalhar com *shapefiles* de outros países ou regiões. Para o Brasil, veremos que existe uma forma muito mais simples. 
