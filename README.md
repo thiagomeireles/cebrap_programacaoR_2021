@@ -76,7 +76,7 @@ Todas os dias de curso terão roteiros a cumprir. Pouco antes de cada encontro, 
 
 [14/05/2021](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/roteiros/dia_04.md) - Utilização do R na prática: Experiência na [Rede de Pesquisa Solidária](https://redepesquisasolidaria.org/) 
 
-[15/05/2021]() - Mapas com *sf* e *ggplot2*
+[15/05/2021](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/roteiros/dia_05.md) - Mapas com *sf* e *ggplot2*
 
 ### Tutoriais
 
@@ -89,6 +89,8 @@ Os links para os tutoriais estarão abaixo antes de cada aula.
 [Tutorial 3](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/Tutorial_03.md): Bases de dados relacionais com a gramática do pacote dplyr. Aqui a [Versão Rmd](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/Tutorial_03.Rmd)
 
 [Tutorial 4](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/Tutorial_04.md): Visualização de dados com *ggplot2*. Aqui a [Versão Rmd](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/Tutorial_04.Rmd)
+
+[Tutorial 5](https://github.com/thiagomeireles/cebrap_programacaoR_2021/blob/main/tutoriais/Tutorial_05.md): Mapas com *sf* e *ggplot2*. 
 
 ## Referências
 
