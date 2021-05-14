@@ -112,7 +112,7 @@ Dica: muito cuidado na construção dos mapas. **SEMPRE** mantenha as coordenada
 Como dito, a principal vantagem que o *sf* traz para a produção de mapas em R é permitir a incorporação da dados a partir de identificadores, como já vimos com o dplyr. Vamos utilizar o pacote *basedosdados* para buscar dados no nível municipal e estadual. Primeiros vamos definir o ID do projeto de cobrança de download dos dados:
 
 ```{r}
-set_billing_id('testecebrap')
+set_billing_id('') # insira seu ID
 ```
 
 ## Nível municipal: dados de mortalidade
