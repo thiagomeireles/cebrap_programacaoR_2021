@@ -14,13 +14,13 @@ Por fim, o vídeo do Base dos Dados sobre o projeto e o recém-lançado pacote p
 
 ## Roteiro para a aula
 
-1. Vídeo de apresentação sobre a "vida real" na [Rede de Pesquisa Solidária](https://youtu.be/yQ6NpW14Xz4)
+1. Vídeo de apresentação sobre a "vida real" na [Rede de Pesquisa Solidária]()
 
-2. Opcional, pois ficou longo: [vídeo passando pelos scripts utilizados](https://youtu.be/LFYG9iqc1Xk) na Rede de Pesquisa Solidária.
+2. Opcional, pois ficou longo: [vídeo passando pelos scripts utilizados]() na Rede de Pesquisa Solidária.
 
-3. Navegue pelo repositório de [exemplos da pesquisa da Rede](https://github.com/thiagomeireles/rede_pesquisa_exemplos) em seu tempo. É importante clonar o repositório para que os scripts funcionem bem.
+3. Navegue pelo repositório de [exemplos da pesquisa da Rede]() em seu tempo. É importante clonar o repositório para que os scripts funcionem bem.
 
-4. Vídeo sobre o Base dos Dados e o [pacote basedosdados para R](https://youtu.be/nshrqbxDuv8)
+4. Vídeo sobre o Base dos Dados e o [pacote basedosdados para R]()
 
 ## Controle de versão com R e Git
 

@@ -14,9 +14,9 @@ Hoje manipularemos mapas utilizando a biblioteca *sf*. Você verá que ela possu
 
 ## Link para aula
 
-É possível acessar o encontro pelo Zoom por [este link](https://zoom.us/j/97209943090?pwd=UmFDZTNzOFd4ekZUUm1uU201WkZJdz09).
+É possível acessar o encontro pelo Zoom por [este link]().
 
-A lista de presença está disponível [aqui](https://docs.google.com/spreadsheets/d/19Qgt-jHp9gp7MZ6HB1rktd1HcZFHA_oLOT4R2bMkHzU/edit?usp=sharing).
+A lista de presença está disponível [aqui]().
 
 ## Dicas de "Atalhos"
 

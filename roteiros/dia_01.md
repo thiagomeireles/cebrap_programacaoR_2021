@@ -28,13 +28,13 @@ O RStudio oferece dois guias com as principais funções do *RMarkdown*, um mais
 
 ## Link para aula
 
-É possível acessar o encontro pelo Zoom por [este link](https://zoom.us/j/92074729094?pwd=SGszVy9nZS9tTzdCeExnRmJkWEtEQT09).
+É possível acessar o encontro pelo Zoom por [este link]().
 
-A lista de presença está disponível [aqui](https://docs.google.com/spreadsheets/d/19Qgt-jHp9gp7MZ6HB1rktd1HcZFHA_oLOT4R2bMkHzU/edit?usp=sharing).
+A lista de presença está disponível [aqui]().
 
 ## Slides
 
-Os slides utilizados na aula podem ser baixados por [este link](https://drive.google.com/file/d/1nNt3KML696E6HLN_z41ujkETdHwwe7pL/view?usp=sharing).
+Os slides utilizados na aula podem ser baixados por [este link]().
 
 ## Dica de Leitura
 
