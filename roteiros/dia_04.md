@@ -14,16 +14,16 @@ Por fim, o vídeo do Base dos Dados sobre o projeto e o recém-lançado pacote p
 
 ## Roteiro para a aula
 
-1. Vídeo de apresentação sobre a "vida real" na [Rede de Pesquisa Solidária]()
+1. Vídeo de apresentação sobre a "vida real" na [Rede de Pesquisa Solidária](https://drive.google.com/file/d/1VrZpMWaKFRE7v9PKOiixVo37YG3yycl3/view?usp=sharing)
 
-2. Opcional, pois ficou longo: [vídeo passando pelos scripts utilizados]() na Rede de Pesquisa Solidária.
+2. Opcional, pois ficou longo: [vídeo passando pelos scripts utilizados](https://drive.google.com/file/d/1i6Ic_nZTX6i1OnKgNztgRAQ4LY3BPY6K/view?usp=sharing) na Rede de Pesquisa Solidária.
 
-3. Navegue pelo repositório de [exemplos da pesquisa da Rede]() em seu tempo. É importante clonar o repositório para que os scripts funcionem bem.
+3. Navegue pelo repositório de [exemplos da pesquisa da Rede](https://github.com/thiagomeireles/rede_pesquisa_exemplos) em seu tempo. É importante clonar o repositório para que os scripts funcionem bem.
 
-4. Vídeo sobre o Base dos Dados e o [pacote basedosdados para R]()
+4. Vídeo sobre o Base dos Dados e o [pacote basedosdados para R](https://drive.google.com/file/d/1Hp5rCaVHQrd6O7VG4bMVLtpxCxAJGFsH/view?usp=sharing)
 
 ## Controle de versão com R e Git
 
-Alguns de vocês conversaram comigo e gravei um vídeo sobre controle de versão com RProject, Git e github. Ele está disponível [aqui](https://youtu.be/qeylRUc_6OI).
+Alguns de vocês conversaram comigo e gravei um vídeo sobre controle de versão com RProject, Git e github. Ele está disponível [aqui](https://drive.google.com/file/d/1UUYM1waNaGWsOsVl7Tj968ryKaLdYGTU/view?usp=sharing).
 
 Por agora, priorizem o que faz parte do roteiro de hoje, deixarei esse vídeo específico disponível até o fim da próxima semana.
