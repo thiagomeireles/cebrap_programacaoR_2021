@@ -20,7 +20,7 @@ Por fim, o vídeo do Base dos Dados sobre o projeto e o recém-lançado pacote p
 
 3. Navegue pelo repositório de [exemplos da pesquisa da Rede](https://github.com/thiagomeireles/rede_pesquisa_exemplos) em seu tempo. É importante clonar o repositório para que os scripts funcionem bem.
 
-4. Vídeo sobre o Base dos Dados e o [pacote basedosdados para R](https://drive.google.com/file/d/1Hp5rCaVHQrd6O7VG4bMVLtpxCxAJGFsH/view?usp=sharing)
+4. Vídeo sobre o Base dos Dados e o [pacote basedosdados para R]()
 
 ## Controle de versão com R e Git
 
